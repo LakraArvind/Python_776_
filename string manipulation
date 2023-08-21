@@ -1,0 +1,3 @@
+sentence = "Python is fun!"
+print(sentence.upper())      # Convert to uppercase
+print(sentence.split())      # Split into words
